@@ -20,8 +20,7 @@ A Machine Learning based Movie Recommendation System built using Python and Stre
 ## Project Files
 
 * app.py
-* movies.pkl
-* similarity.pkl
+* MovieRecommendation.ipynb
 * requirements.txt
 
 
